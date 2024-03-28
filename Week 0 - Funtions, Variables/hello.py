@@ -8,3 +8,12 @@ first, last = name.split(" ")
 # Say hello to user
 # Diz olá para o usuário
 print(f"hello, {first}")
+
+def main():
+    name = input("What's your name?")
+    hello(name)
+
+def hello(to="world"):
+    print("hello,", to)
+
+main()
