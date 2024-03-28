@@ -17,7 +17,7 @@ d = float(input("What's d? "))
 
 print(round(c + d))
 
-# Para adicionar "." ou "," entre as casas de milhares
+# Para adicionar "," entre as casas de milhares
 e = float(input("What's e? "))
 f = float(input("What's f? "))
 
@@ -42,7 +42,7 @@ m = k / l
 
 print(f"{m:.2f}")
 
-# Exemp
+# Exemplo de exponenciação
 def main():
     x = int(input("What's x?"))
     print("x squared is", square(x))
