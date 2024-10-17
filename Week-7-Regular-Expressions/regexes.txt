@@ -30,3 +30,5 @@ re.DOTALL
 
 Correct sintaxe e-mail regular expression:
     ^[a-zA-Z0-9.!#$%¨'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])??:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$
+
+re.sub(pattern, repl, string, count=0,flas=0)
