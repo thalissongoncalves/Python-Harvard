@@ -1,0 +1,10 @@
+[
+    {
+        "tarefa": "Jogar bola",
+        "status": "pendente"
+    },
+    {
+        "tarefa": "Terminar curso",
+        "status": "completed"
+    }
+]
